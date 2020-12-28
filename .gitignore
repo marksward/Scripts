@@ -1,3 +1,5 @@
 .vscode/settings.json
 GeoFromIP/settings.pyc
 settings.py
+GeoFromIP/__pycache__/settings.cpython-39.pyc
+.DS_Store
